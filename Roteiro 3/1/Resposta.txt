@@ -1,0 +1,4 @@
+Polimorfismo é um conceito utilizado no paradigma de orientação a objetos para agrupar objetos que herdem de uma classe comum.
+Ou seja, polimorfismo serve para agrupar objetos por uma característica em comum, por exemplo, camelo e águia são animais, eles 
+são dois objetos diferentes podem podem ser agrupados por uma classe em comum que é a classe de animais.
+Outro exemplo é o programa nesta pasta.
